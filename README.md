@@ -1,5 +1,6 @@
-# 💫 About Me:
+# 💫 Hi, I'm heckerboii!
 🔭 I’m currently working on my Portfolio
+💻 I'm using Arch btw
 
 
 # 💻 Tech Stack:
