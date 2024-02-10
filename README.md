@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 Working on Portfolio<br>💻 Using Arch btw<br>🖋️ Pentesting
+# 🖖 Hi, I'm heckerboii!
+🔭 Working on Portfolio<br>
+💻 Using Arch btw<br>
+🖋️ Pentesting
 
 
 # 💻 Tech Stack:
