@@ -1,7 +1,9 @@
-# 💫 Hi, I'm heckerboii!
+# 🖖 Hi, I'm heckerboii!
 🔭 Working on Portfolio
 
 💻 Using Arch btw
+
+🖋️ Pentester
 
 
 # 💻 Tech Stack:
