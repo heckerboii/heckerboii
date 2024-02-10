@@ -1,6 +1,7 @@
 # 💫 Hi, I'm heckerboii!
-🔭 I’m currently working on my Portfolio
-💻 I'm using Arch btw
+🔭 Working on Portfolio
+
+💻 Using Arch btw
 
 
 # 💻 Tech Stack:
