@@ -3,7 +3,7 @@
 </h1>
 <div align="center"> 
   
-  🔭 I'm currently working on a **Portfolio**<br>
+  🔭 I'm currently working on **Attack on Titan Wiki**<br>
   💻 I use **Arch** btw<br>
   🖋️ I love **Pentesting**
 
