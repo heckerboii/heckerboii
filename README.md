@@ -4,8 +4,7 @@
 <div align="center"> 
   
   🔭 Working on **Attack on Titan Wiki**<br>
-  💻 I use **Arch** btw<br>
-  🖋️ I love **Pentesting**
+  💻 I use **Arch** btw
 
 
 # 💻 Tech Stack:
